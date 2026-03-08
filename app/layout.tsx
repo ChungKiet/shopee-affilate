@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Affiliate Link Generator",
-  description: "Tạo affiliate link từ URL Shopee",
+  title: "Tạo Link Shopee",
+  description: "Tạo link affiliate Shopee - miki.shpee.cc",
 };
 
 export default function RootLayout({
