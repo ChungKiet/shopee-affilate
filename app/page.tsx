@@ -192,7 +192,7 @@ export default function Home() {
             Hướng dẫn
           </h2>
           <ol className="guide-steps">
-            <li>Sau khi tạo link, nhấn Copy Link.</li>
+            <li>Sau khi tạo link, nhấn <strong>Copy Link</strong>.</li>
             <li>Dán link dưới bình luận bài đăng này.</li>
             <li>Click vào link để mở Shopee sẽ nhận được mã.</li>
           </ol>
